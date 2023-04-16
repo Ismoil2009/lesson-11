@@ -1,0 +1,13 @@
+@import "common.css";
+
+h1 {
+    color: red;
+    font-size: 60px;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    color: green;
+    font-weight: 900;
+}
